@@ -1,4 +1,3 @@
-Prince, Keith
 
 As I’d hoped here is some python code which will produce the real-time wave analysis
 
@@ -74,12 +73,3 @@ http://gws-access.ceda.ac.uk/public/ncas_climate/seasia_waves/realtime/
 so that you can check things if you want to.
 
 Hope everything  works OK, let me know if you have any questions.
-
-Steve
-
-----------------------------------
-Professor Steve Woolnough
-National Centre for Atmospheric Science
-
-Department of Meteorology, University of Reading
-Earley Gate, PO Box 243, Reading, RG6 6BB, UK
