@@ -1,0 +1,88 @@
+/opt/scitools/environments/default/2019_02_27/lib/python3.6/site-packages/matplotlib/contour.py:1230: UserWarning: No contour levels were found within the data range.
+  warnings.warn("No contour levels were found"
+Computations are done for 2020-01-14 00:00:00. Just skipping to plots...
+Kelvin
+/scratch/hadpx/Eqwaves_monitoring/processed_wave_data/mogreps/u_wave_Kelvin_20200114_00Z_000.nc
+45
+Generated the animation /scratch/hadpx/Eqwaves_monitoring/processed_wave_data/mogreps/plots/anim_wave_Kelvin_200hPa_20200114_00Z_000.gif
+Generated the animation /scratch/hadpx/Eqwaves_monitoring/processed_wave_data/mogreps/plots/anim_wave_Kelvin_850hPa_20200114_00Z_000.gif
+WMRG
+/scratch/hadpx/Eqwaves_monitoring/processed_wave_data/mogreps/u_wave_WMRG_20200114_00Z_000.nc
+45
+Generated the animation /scratch/hadpx/Eqwaves_monitoring/processed_wave_data/mogreps/plots/anim_wave_WMRG_200hPa_20200114_00Z_000.gif
+Generated the animation /scratch/hadpx/Eqwaves_monitoring/processed_wave_data/mogreps/plots/anim_wave_WMRG_850hPa_20200114_00Z_000.gif
+R1
+/scratch/hadpx/Eqwaves_monitoring/processed_wave_data/mogreps/u_wave_R1_20200114_00Z_000.nc
+45
+Generated the animation /scratch/hadpx/Eqwaves_monitoring/processed_wave_data/mogreps/plots/anim_wave_R1_200hPa_20200114_00Z_000.gif
+Generated the animation /scratch/hadpx/Eqwaves_monitoring/processed_wave_data/mogreps/plots/anim_wave_R1_850hPa_20200114_00Z_000.gif
+R2
+/scratch/hadpx/Eqwaves_monitoring/processed_wave_data/mogreps/u_wave_R2_20200114_00Z_000.nc
+45
+Generated the animation /scratch/hadpx/Eqwaves_monitoring/processed_wave_data/mogreps/plots/anim_wave_R2_200hPa_20200114_00Z_000.gif
+Generated the animation /scratch/hadpx/Eqwaves_monitoring/processed_wave_data/mogreps/plots/anim_wave_R2_850hPa_20200114_00Z_000.gif
+{'Kelvin_850': './anim_wave_Kelvin_850hPa_20200114_00Z_000.gif', 'Kelvin_200': './anim_wave_Kelvin_200hPa_20200114_00Z_000.gif', 'WMRG_850': './anim_wave_WMRG_850hPa_20200114_00Z_000.gif', 'WMRG_200': './anim_wave_WMRG_200hPa_20200114_00Z_000.gif', 'R1_850': './anim_wave_R1_850hPa_20200114_00Z_000.gif', 'R1_200': './anim_wave_R1_200hPa_20200114_00Z_000.gif', 'R2_850': './anim_wave_R2_850hPa_20200114_00Z_000.gif', 'R2_200': './anim_wave_R2_200hPa_20200114_00Z_000.gif'}
+
+    <html>
+    <head>
+    </head>
+    <body lang="en-US" dir="ltr">
+    <h1>Equatorial waves monitoring</h1>
+    <p>Monitoring equatorial waves from MOGREPS forecasts. Only the
+    deterministic forecasts are used. The full methodology for the
+    computation is given in:<br/>
+    Ferrett, S., S.Woolnough, K. Hodges, C. Holloway, J. Methven and G-Y Yang, 2019: Linking Extreme
+    Precipitation in Southeast Asia to Equatorial Waves , QJRMS.</p>
+    
+    <p>
+    Geopotential height anomalies are plotted as shaded contours (-10 to 10 with steps of 2 metres). 
+    Line contours are for wind convergence for Kelvin and WMRG waves and Vorticity for R1 and R2 waves. 
+    Contours are at 2.5 and 5 * 1e6 s-1.
+    </p>
+    
+    <p>Latest available forecast : <font size="+2"> 2020-01-14 00:00:00 </font> </p> <table>
+
+    <tr>
+    <td> Wave </td>
+    <td> 850 hPa </td>
+    <td> 200 hPa </td><tr>
+<td> Kelvin </td>
+<td> <a href="./anim_wave_Kelvin_850hPa_20200114_00Z_000.gif">
+<img border="0" src="./anim_wave_Kelvin_850hPa_20200114_00Z_000.gif" width="800" >
+</a></td>
+<td> <a href="./anim_wave_Kelvin_200hPa_20200114_00Z_000.gif">
+<img border="0" src="./anim_wave_Kelvin_200hPa_20200114_00Z_000.gif" width="800" >
+</a></td>
+</tr>
+<tr>
+<td> WMRG </td>
+<td> <a href="./anim_wave_WMRG_850hPa_20200114_00Z_000.gif">
+<img border="0" src="./anim_wave_WMRG_850hPa_20200114_00Z_000.gif" width="800" >
+</a></td>
+<td> <a href="./anim_wave_WMRG_200hPa_20200114_00Z_000.gif">
+<img border="0" src="./anim_wave_WMRG_200hPa_20200114_00Z_000.gif" width="800" >
+</a></td>
+</tr>
+<tr>
+<td> R1 </td>
+<td> <a href="./anim_wave_R1_850hPa_20200114_00Z_000.gif">
+<img border="0" src="./anim_wave_R1_850hPa_20200114_00Z_000.gif" width="800" >
+</a></td>
+<td> <a href="./anim_wave_R1_200hPa_20200114_00Z_000.gif">
+<img border="0" src="./anim_wave_R1_200hPa_20200114_00Z_000.gif" width="800" >
+</a></td>
+</tr>
+<tr>
+<td> R2 </td>
+<td> <a href="./anim_wave_R2_850hPa_20200114_00Z_000.gif">
+<img border="0" src="./anim_wave_R2_850hPa_20200114_00Z_000.gif" width="800" >
+</a></td>
+<td> <a href="./anim_wave_R2_200hPa_20200114_00Z_000.gif">
+<img border="0" src="./anim_wave_R2_200hPa_20200114_00Z_000.gif" width="800" >
+</a></td>
+</tr>
+</table>
+    </body>
+    </html>
+    
+/scratch/hadpx/Eqwaves_monitoring/processed_wave_data/mogreps/plots/wave_static_page.html is written. 

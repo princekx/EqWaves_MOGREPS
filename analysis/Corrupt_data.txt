@@ -1,0 +1,4 @@
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Analysis data for 2019/09/19/18Z is retrieved but is corrupt. So we are
+replacing that with average of 2019/09/19/12Z and 2019/09/20/00Z

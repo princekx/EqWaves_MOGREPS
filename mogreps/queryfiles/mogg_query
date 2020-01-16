@@ -1,0 +1,6 @@
+begin
+  stash=(15201, 15202, 16202)
+  blev=(850.0, 200.0)
+  lbproc=0
+  pp_file="filemoose"
+end
